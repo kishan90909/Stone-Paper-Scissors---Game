@@ -3,7 +3,7 @@
 <div align="center">
   <h3>
     🚀 Live Demo:
-    <a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">
+    <a href="https://kishan90909.github.io/Stone-Paper-Scissors---Game/" target="_blank">
       Play Game Here
     </a>
   </h3>
